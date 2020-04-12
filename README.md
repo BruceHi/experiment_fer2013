@@ -14,5 +14,5 @@ python csv2img.py -f fer2013\fer2013.csv -d images
 
 ### Linux系统
 ```shell
-sh run.sh -f fer2013/fer2013.sh -d images
+sh run.sh fer2013/fer2013.sh images
 ```
